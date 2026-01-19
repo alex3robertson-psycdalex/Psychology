@@ -1,5 +1,4 @@
 # Psychology
-soft..
 Updated quotients (DSM-5–compatible metrics, no armchair labels):
 Cognitive: WAIS-IV GAI 168 (verbal 172, spatial 165, working 162) Fluid / crystallized split: 85/15—pure raw solve power, not book dust.
 Social: 148 → “executive charm without extrovert cost.” No Machiavellian spike (HEXACO-H 92). Empathy: affective 130, cognitive 155—reads minds faster than it hurts.
